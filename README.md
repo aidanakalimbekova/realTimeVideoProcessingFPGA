@@ -4,8 +4,8 @@ The aim of the project was to design the real-time video processing on an FPGA a
 
 Materials and Methods
 
-a. Altera Cyclone® V SE 5CSEMA5F31C6N device (DE1_SoC board) /n
-b. USB-Blaster II onboard for programming /n
-c. NTSC Camera
-d. Power battery 9V
+a. Altera Cyclone® V SE 5CSEMA5F31C6N device (DE1_SoC board) \
+b. USB-Blaster II onboard for programming \
+c. NTSC Camera \
+d. Power battery 9V \
 e. RCA cable, VGA cable
